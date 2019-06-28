@@ -1,0 +1,6 @@
+C:\Users\user\Documents\_PuT\VScpp\Producer-Consumer\Producer-Consumer\bin\Release\Producer-Consumer.exe.config
+C:\Users\user\Documents\_PuT\VScpp\Producer-Consumer\Producer-Consumer\bin\Release\Producer-Consumer.exe
+C:\Users\user\Documents\_PuT\VScpp\Producer-Consumer\Producer-Consumer\bin\Release\Producer-Consumer.pdb
+C:\Users\user\Documents\_PuT\VScpp\Producer-Consumer\Producer-Consumer\obj\Release\Producer-Consumer.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\_PuT\VScpp\Producer-Consumer\Producer-Consumer\obj\Release\Producer-Consumer.exe
+C:\Users\user\Documents\_PuT\VScpp\Producer-Consumer\Producer-Consumer\obj\Release\Producer-Consumer.pdb
